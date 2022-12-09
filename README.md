@@ -2,15 +2,17 @@
 
 > This is an assignment example for My Website
 
-This is the simple personal website of **M Haidar Hanif** made using HTML CSS and JavaScript.
+This is the simple personal website of **M Haidar Hanif** made using HTML, CSS, and JavaScript.
 
 Link/URL: <https://mhaidarhanif-website.vercel.app>
 
+Inspiration: <https://mhaidarhanif.com>
+
 ## Screenshots
 
-![Home](assets/home.jpg)
+![Home](assets/home.jpeg)
 
-![Contact](assets/contact.jpg)
+![Contact](assets/contact.png)
 
 ## Colors
 
