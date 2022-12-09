@@ -4,9 +4,14 @@
 
 This is the simple personal website of **M Haidar Hanif** made using HTML, CSS, and JavaScript.
 
-Link/URL: <https://mhaidarhanif-website.vercel.app>
+Link/URL: <https://mhaidarhanif-web.netlify.app>
 
 Inspiration: <https://mhaidarhanif.com>
+
+## Pages
+
+- Home
+- Contact
 
 ## Screenshots
 
