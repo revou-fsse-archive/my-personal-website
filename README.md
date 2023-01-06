@@ -4,7 +4,7 @@
 
 This is the simple personal website of **M Haidar Hanif** made using HTML, CSS, and JavaScript.
 
-Link/URL: <https://mhaidarhanif-web.netlify.app>
+Link/URL: <https://revou-my-website.netlify.app>
 
 Inspiration: <https://mhaidarhanif.com>
 
