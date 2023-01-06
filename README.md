@@ -1,6 +1,6 @@
 # M Haidar Hanif Website
 
-> This is an assignment example for My Website
+> Assignment Example for My Personal Website.
 
 This is the simple personal website of **M Haidar Hanif** made using HTML, CSS, and JavaScript.
 
