@@ -4,9 +4,11 @@
 
 This is the simple personal website of **M Haidar Hanif** made using HTML, CSS, and JavaScript.
 
-Link/URL: <https://revou-my-website.netlify.app>
+## Links/URLs:
 
-Inspiration: <https://mhaidarhanif.com>
+- <https://revou-personal-website.netlify.app>
+- <https://revou-personal.mhaidarhanif.com>
+- Inspiration: <https://mhaidarhanif.com>
 
 ## Pages
 
